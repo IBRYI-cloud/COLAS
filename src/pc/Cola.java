@@ -10,7 +10,7 @@ public class Cola extends ListaSimplementeEnlazada {
             Nodo nuevo = new Nodo(dato, null);
             primero = nuevo;
         } else {
-            Nodo ultimo = primero;
+            Nodo ultimo =  primero;
             while (ultimo.getSiguiente() != null) {
                 ultimo = ultimo.getSiguiente();
             }

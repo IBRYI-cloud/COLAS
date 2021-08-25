@@ -18,9 +18,9 @@ public class ListaSimplementeEnlazada {
             primero = nuevo;
         }
     }
-    public void eliminar(){
+    public void eliminar(Nodo primero){
         if (!estaVacia()){
-            primero = primero.getSiguiente();
+            this.primero = this.primero.getSiguiente();
         }
     }
     public void mostrar(){

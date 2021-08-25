@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf513563-ea58-4f1b-9c60-d6d1a1ba6ddd" name="Default Changelist" comment="" />
+    <list default="true" id="bf513563-ea58-4f1b-9c60-d6d1a1ba6ddd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pc/Pila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lse/ListaSimplementeEnlazada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lse/ListaSimplementeEnlazada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pc/Cola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pc/Cola.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wtsfrcuwAyKwGntjQwnNH6UK9C" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +35,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -50,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629289325043</updated>
       <workItem from="1629289330524" duration="3895000" />
+      <workItem from="1629907197584" duration="2503000" />
     </task>
     <servers />
   </component>
@@ -57,33 +73,44 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1629291819911">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1629908911067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1629291819911" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1629908911067" />
     <state x="392" y="131" key="#com.intellij.refactoring.memberPushDown.PushDownDialog" timestamp="1629290231209">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="131" key="#com.intellij.refactoring.memberPushDown.PushDownDialog/0.0.1366.728@0.0.1366.728" timestamp="1629290231209" />
-    <state width="1322" height="107" key="GridCell.Tab.0.bottom" timestamp="1629293229363">
+    <state width="1306" height="103" key="GridCell.Tab.0.bottom" timestamp="1629909416226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1629293229363" />
-    <state width="1322" height="107" key="GridCell.Tab.0.center" timestamp="1629293229363">
+    <state width="1306" height="103" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1629909416226" />
+    <state width="1306" height="103" key="GridCell.Tab.0.center" timestamp="1629909416225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1629293229363" />
-    <state width="1322" height="107" key="GridCell.Tab.0.left" timestamp="1629293229363">
+    <state width="1306" height="103" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1629909416225" />
+    <state width="1306" height="103" key="GridCell.Tab.0.left" timestamp="1629909416225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1629293229363" />
-    <state width="1322" height="107" key="GridCell.Tab.0.right" timestamp="1629293229363">
+    <state width="1306" height="103" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1629909416225" />
+    <state width="1306" height="103" key="GridCell.Tab.0.right" timestamp="1629909416225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1629293229363" />
+    <state width="1306" height="103" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1629909416225" />
     <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1629292116641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1629292116641" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pc/Pila.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
